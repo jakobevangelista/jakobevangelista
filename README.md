@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 add profile picture
 <img src="">
 --->
-<h2> Hey there! I'm Jakob Evangelista.</h2>
+<h2> Hello! I'm Jakob Evangelista.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -69,7 +69,7 @@ add profile picture
 
 <p align="center">
 <a href="https://www.jakob-evangelista.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.jakob-evangelista.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jakobevangelista/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jakob%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jakobevangelista/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jakob%20Evangelista-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/jakobevanglista/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jakobeavangelista-blue?style=flat-square&logo=instagram"></a>
 <a href="jakobevangelista@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jakobevangelista@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
