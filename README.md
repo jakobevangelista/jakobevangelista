@@ -18,7 +18,7 @@ add profile picture
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am a full stack application developer that dabbles in machine learning / AI as well as a little bit of data science.
+- 🤔 &nbsp; I am a full stack application developer that dabbles in machine learning / AI and data science.
 - 🎓 &nbsp; Studying Computer Engineering at Texas A&M University.
 - 💼 &nbsp; Working on collaboration with small businesses in order to streamline backend processes such as client communications and interactions.
 - 🌱 &nbsp; Learning more about Artificial Intelligence, Cloud Architecture and new application development methodologies and tools.
