@@ -68,7 +68,7 @@ add profile picture
   <!---
 <a href="https://www.jakob-evangelista.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.jakob-evangelista.com-blue?style=flat-square&logo=google-chrome"></a>
 --->
-<a href="https://www.linkedin.com/in/jakob-evangelista"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jakob%20Evangelista-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jakobevangelista"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jakob%20Evangelista-blue?style=flat-square&logo=linkedin"></a>
   <!---
 <a href="https://www.instagram.com/jakobevanglista/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jakobeavangelista-blue?style=flat-square&logo=instagram"></a>
 --->
